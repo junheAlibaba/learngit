@@ -18,3 +18,4 @@ add merge
 
 add quick merge
 
+/usr/bin/env
